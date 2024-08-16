@@ -1,0 +1,31 @@
+[33mcommit f5710aca1058961c3af6e79ed45d81541c56ff4a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ross Lohrisch <rosslohrisch@gmail.com>
+Date:   Fri Aug 16 11:48:06 2024 -0400
+
+    This is a commit message
+    
+    This is the body
+
+[33mcommit 02e80283bf50f41169db403e92b57e106789964c[m
+Author: Ross Lohrisch <rosslohrisch@gmail.com>
+Date:   Thu Aug 15 14:11:36 2024 -0400
+
+    test
+
+[33mcommit 7c13f2fefd27b53b4f72e0eee5819c54df80754e[m
+Author: Ross Lohrisch <rosslohrisch@gmail.com>
+Date:   Thu Aug 15 14:06:47 2024 -0400
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 2bb5c5df3b7809d4a556a8643bad9c255f4f6fdb[m
+Author: Ross Lohrisch <rosslohrisch@gmail.com>
+Date:   Thu Aug 15 14:00:32 2024 -0400
+
+    Add hello_world.txt
+
+[33mcommit b5ea617b7aad26d06259ae7760fe10efc9607e03[m
+Author: RossLohrisch <38438688+RossLohrisch@users.noreply.github.com>
+Date:   Thu Aug 15 13:49:24 2024 -0400
+
+    Initial commit
